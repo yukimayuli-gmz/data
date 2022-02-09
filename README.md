@@ -15,5 +15,5 @@ We previde origin simulation trees, distance matrixes, and simulation sequences 
 
 ## Reference
 
-[1][Hagen, O. and Stadler, T. 2018. TreeSimGM: Simulating phylogenetic trees under general Bellman-Harris models with lineage-specific shifts of speciation and extinction in R. Methods in ecology and evolution, 9(3): 754{760.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12917)<br>
-[2][Cartwright, R. A. 2005. DNA assembly with gaps (Dawg): simulating sequence evolution. Bioinformatics, 21(Suppl 3): iii31{iii38.](https://academic.oup.com/bioinformatics/article/21/Suppl_3/iii31/216620)<br>
+[1][Hagen, O. and Stadler, T. 2018. TreeSimGM: Simulating phylogenetic trees under general Bellman-Harris models with lineage-specific shifts of speciation and extinction in R. Methods in ecology and evolution, 9(3): 754-760.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12917)<br>
+[2][Cartwright, R. A. 2005. DNA assembly with gaps (Dawg): simulating sequence evolution. Bioinformatics, 21(Suppl 3): iii31-iii38.](https://academic.oup.com/bioinformatics/article/21/Suppl_3/iii31/216620)<br>
