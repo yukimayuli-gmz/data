@@ -9,7 +9,7 @@ We provide 10000 distance matrixes in this folder.
 
 * `Simulation sequences`<br>
 We randomly generate 10000 trees for 30 taxa by using the function `sim.taxa` from the R package `TreeSimGM`[1].
-We let the parameter `waiting time until speciation` for `sim.taxa` be exponentially distributed and normalize the maximum pairwise distance to 1 for every simulation tree rate parameter \lamda = 1.2.
+We let the parameter `waiting time until speciation` for `sim.taxa` be exponentially distributed and normalize the maximum pairwise distance to 1 for every simulation tree.
 Then we use the software `Dawg`[2] to simulate DNA sequences of length 10000bp from the simulation trees under `Jukes-Cantor` model.
 We previde origin simulation trees, distance matrixes, and simulation sequences in this folder.
 
